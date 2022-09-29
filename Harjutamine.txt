@@ -1,2 +1,4 @@
 Github on arkvaraarenduse ja versioonihalduse
 internetihostinguteenus mida kasutavad paljud tarkvara arendajad.
+
+Mina saan tulevikus kasutada Githubi, et luua ja testida tarkvara.
