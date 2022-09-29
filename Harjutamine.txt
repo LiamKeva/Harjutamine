@@ -1,2 +1,9 @@
 Github on arkvaraarenduse ja versioonihalduse
 internetihostinguteenus mida kasutavad paljud tarkvara arendajad.
+
+Mina saan tulevikus kasutada Githubi, et luua ja testida tarkvara.
+
+
+GitHubi teenuse arendasid Chris Wanstrath, P. J. Hyett, Tom Preston-Werner
+ja Scott Chacon, kes kasutasid Ruby on Rails'i ja alustasid tegevust 2008. aasta veebruaris.
+Ettevõte GitHub, Inc. on eksisteerinud alates 2007. aastast ja asub San Franciscos.
